@@ -1,4 +1,4 @@
-# \<Insegnamento\>
+# Fisica Relativistica
 
 Una raccolta di risorse per l'insegnamento di Fisica Relativistica del Corso di
 Laurea in Fisica. Ulteriori informazioni sono disponibili sulla
